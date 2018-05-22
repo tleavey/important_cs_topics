@@ -13,6 +13,7 @@
 * [Graph Data Strucutres and Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ "Graphs")
 * [MVC - Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller "MVC")
 * [Operating Systems](https://en.wikipedia.org/wiki/Operating_system "Operating Systems")
-* [Object Oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design "OOD")
+* [Object-Oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design "OOD")
+* [Object-Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming "OOP")
 * [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development) "Scrum")
 * [Theory of Computation](https://en.wikipedia.org/wiki/Theory_of_computation "Theory of Computation")
