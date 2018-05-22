@@ -7,6 +7,7 @@
 * [Breadth-first Search vs Depth-first Search](https://www.geeksforgeeks.org/bfs-vs-dfs-binary-tree/ "Bfs vs Dfs")
 * [Cache-Oblivious Algorithm](https://en.wikipedia.org/wiki/Cache-oblivious_algorithm "Cache-oblivious Algorithm")
 * [Continuous Delivery](https://continuousdelivery.com/ "Continuous Delivery")
+* [Database Types](https://en.wikipedia.org/wiki/Category:Types_of_databases "Database Types")
 * [Continuous Integration](https://www.thoughtworks.com/continuous-integration "Continuous Integration")
 * [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns "Design Patterns")
 * [DOM - Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model "DOM")
