@@ -11,4 +11,7 @@
 * [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns "Design Patterns")
 * [DOM - Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model "DOM")
 * [MVC - Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller "MVC")
+* [Operating Systems](https://en.wikipedia.org/wiki/Operating_system "Operating Systems")
+* [Object Oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design "OOD")
 * [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development) "Scrum")
+* [Theory of Computation](https://en.wikipedia.org/wiki/Theory_of_computation "Theory of Computation")
